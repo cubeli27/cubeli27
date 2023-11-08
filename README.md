@@ -16,7 +16,7 @@ Greetings! I'm Jure Cubelic, a dedicated Mechatronic Systems student.
 
 - 💻 Experienced in Electronic Computer-Aided Design tools, including Eagle and KiCad.
 - ⚙️ Well-versed in AVR microcontrollers, including knowledge of standard features like internal temperature sensing and power modes.
-- 🛠 Have a working knowledge of ESP32 and ESP8266 microcontrollers particularly in ESP-NOW.
+- 🛠 Have a working knowledge of ESP8266, ESP32 and ESP32-S series microcontrollers particularly in ESP-NOW.
 - 🤖 Familiar with STM32 microcontrollers at a basic level.
 
 
