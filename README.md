@@ -1,23 +1,6 @@
-# Welcome to my GitHub! 👋
+# Welcome 👋
 
-Greetings! I'm Jure Cubelic,
-
-
-➡ I have a passion for learning and a knack for finding creative solutions. I see every challenge as an opportunity, and I can't wait to turn them into achievements. Embracing change in uncharted territories is where true innovation begins. ⬅
-
-## About Me
-
-- 🎓 Graduated with a passion in hardware design, and embedded programming.
-- 💡 Eager to tackle new challenges and create innovative solutions.
-- 🚀 Excited about the intersection of hardware and software that drives today's technology.
-
-
-## What I Bring to the Table
-
-- 💻 Experienced in Electronic Computer-Aided Design tools, including Eagle and KiCad.
-- ⚙️ Well-versed in AVR microcontrollers, including knowledge of standard features like internal temperature sensing and power modes.
-- 🛠 Have a working knowledge of ESP8266, ESP32 and ESP32-S series microcontrollers particularly in ESP-NOW.
-- 🤖 Presently mainly working with STM32 microcontrollers.
+Hi I'm Jure Cubelic, a Mechatronic Systems Engineer that really likes harware design and embedded systems. Most likely to find here will be some of my designs and a bit of code, perhaps even some mechanical models since 3d printing is also fun. 
 
 
 ## Get in Touch
@@ -26,6 +9,5 @@ Greetings! I'm Jure Cubelic,
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/jure-cubelic-a3a880282).
 - 📷 Check out my work and projects on [Instagram](https://www.instagram.com/cubeli27).
 
-Looking forward to exciting collaborations and meaningful projects! Let's build something awesome together! 🚀
 
 <img src="https://komarev.com/ghpvc/?username=cubeli27&style=flat-square&color=blue" alt=""/>
