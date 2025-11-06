@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Hi I'm Jure Cubelic, a Mechatronic Systems Engineer that really likes harware design and embedded systems. Most likely to find here will be some of my designs and a bit of code, perhaps even some mechanical models since 3d printing is also fun. 
+Hi I'm Jure Cubelic, a Mechatronic Systems Engineer that really likes harware design and embedded systems. Most likely to find here will be some of my designs and a bit of code, perhaps even some mechanical models for my 3D prints. 
 
 
 ## Get in Touch
